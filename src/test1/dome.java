@@ -12,6 +12,7 @@ public class dome {
     String[] args2 = new String[args.length + 1];
 	System.arraycopy(args, 0, args2, 0, args.length);
 	args2[args.length] = args;
+	.
 	}1
 
 }
