@@ -8,6 +8,7 @@ public class dome {
     
     System.out.println("numner");
     System.out.println("nshh");
+    System.out.println("soemthing");
 	}
 
 }
